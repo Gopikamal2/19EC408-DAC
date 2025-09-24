@@ -81,20 +81,20 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |           |             | 
-| Square    |           |             |
+| Sawtooth  |   8.08    |     1.62    | 
+| Square    |    9.6    |     5.6     |
 ---
 
 ## Model Graph
-
-*(Insert graph/diagram here if available)*
+![WhatsApp Image 2025-09-24 at 18 56 21_7c35e15a](https://github.com/user-attachments/assets/33c8c344-3006-46a9-a20a-e1030c8e0e08)
+![WhatsApp Image 2025-09-24 at 18 56 42_e93f961f](https://github.com/user-attachments/assets/306acfe9-e998-4d45-a9fa-910eac466d15)
 
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
 
-
-
+![487335940-410ae4ca-f77e-42df-998e-0128610a411e](https://github.com/user-attachments/assets/5b9c93b8-7861-4999-8b9a-d8c0d699392f)
+![487334975-9bb4c93f-f9bd-4b16-8a1b-21d8355f7e48](https://github.com/user-attachments/assets/fa2f9e5f-eef2-4118-b57f-088dab2526d2)
 
 ## Result
 
